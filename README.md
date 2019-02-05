@@ -6,7 +6,7 @@
 ### Author: Brent Woodward
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/BrentTech/31-application-state)
 * [Assignment 1 - Connection](https://codesandbox.io/s/r49x15qrko)
 * [Assignment 2 - Reducers](https://codesandbox.io/s/21xw70n9ny)
 
